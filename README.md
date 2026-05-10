@@ -6,3 +6,4 @@ discord sunucumuz ve telegramımız
 https://discord.gg/snUNdxmYKe
 https://t.me/kynxstealers
 discord : hsh1t
+discord adresimize gelip bize destek vermeyi unutmaayınn
