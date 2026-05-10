@@ -1,0 +1,22 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< scruffy:stealer >---------------------------
+[INFO] Building stealer 1.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.4.0:resources (default-resources) @ stealer ---
+[INFO] skip non existing resourceDirectory C:\Users\YAĞMUR\Desktop\scruffystealer\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ stealer ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 32 source files with javac [debug target 17] to target\classes
+[WARNING] system modules path not set in conjunction with -source 17
+[INFO] /C:/Users/YAĞMUR/Desktop/scruffystealer/src/main/java/scruffy/stealer/utils/utilities.java: Some input files use or override a deprecated API.
+[INFO] /C:/Users/YAĞMUR/Desktop/scruffystealer/src/main/java/scruffy/stealer/utils/utilities.java: Recompile with -Xlint:deprecation for details.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.406 s
+[INFO] Finished at: 2026-04-26T20:06:45+03:00
+[INFO] ------------------------------------------------------------------------
