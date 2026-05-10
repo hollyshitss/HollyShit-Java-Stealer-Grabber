@@ -1,0 +1,1 @@
+# -tzgonza-x-hollyshit-g-ncellenmi-versyon-
